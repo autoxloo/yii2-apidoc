@@ -25,7 +25,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist yiisoft/yii2-apidoc
+composer require --prefer-dist autoxloo/yii2-apidoc
 ```
 
 The above command may not work on an existing project due to version conflicts that need to be resolved, so it is preferred to add the package manually to the require section of your composer.json:
@@ -34,7 +34,7 @@ The above command may not work on an existing project due to version conflicts t
 "autoxloo/yii2-apidoc": "~2.1.0"
 ```
 
-afterwards run `composer update`. You may also run `composer update yiisoft/yii2-apidoc cebe/markdown` if you want to avoid updating unrelated packages.
+afterwards run `composer update`. You may also run `composer update autoxloo/yii2-apidoc cebe/markdown` if you want to avoid updating unrelated packages.
 
 
 Usage
