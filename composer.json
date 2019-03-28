@@ -1,6 +1,6 @@
 {
-    "name": "yiisoft/yii2-apidoc",
-    "description": "API Documentation generator for the Yii framework 2.0",
+    "name": "autoxloo/yii2-apidoc",
+    "description": "API Documentation generator for the Yii framework 2.0 (fork)",
     "keywords": ["yii2", "phpdoc", "apidoc", "api", "documentation"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
